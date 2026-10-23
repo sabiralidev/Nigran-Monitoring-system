@@ -1,10 +1,10 @@
 # Dependencies
 node_modules/
 
-# Environment files
-.env
-.env.*
-!.env.example
+# # Environment files
+# .env
+# .env.*
+# !.env.example
 
 # Logs and runtime data
 logs/
@@ -25,12 +25,3 @@ coverage/
 !.vscode/extensions.json
 .idea/
 .DS_Store
-
-
-controllers/
-config/
-models/
-routes/
-jobs/
-scraper/
-services/
