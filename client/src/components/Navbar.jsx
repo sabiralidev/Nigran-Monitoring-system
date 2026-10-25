@@ -41,7 +41,7 @@ const Navbar = () => {
           <div className="w-8 h-8 rounded-lg bg-gradient-to-br from-accent-blue to-accent-cyan flex items-center justify-center">
             <Activity size={16} className="text-white" />
           </div>
-          <span className="font-bold text-lg text-gradient">NIGRAN</span>
+          <span className="font-bold text-lg text-gradient">Monitoring-X</span>
         </Link>
 
         {/* Center status */}

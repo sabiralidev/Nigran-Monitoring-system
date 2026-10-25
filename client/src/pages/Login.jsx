@@ -47,7 +47,7 @@ const Login = () => {
 
         {/* Brand lockup, top-left */}
         <div className="absolute left-10 top-9 z-10 flex items-center gap-3">
-          <img src="/logo.png" alt="NIGRAN" className="h-10 w-10 shrink-0 rounded-xl object-contain drop-shadow-lg ring-1 ring-white/20" />
+          <img src="/team_logo.png" alt="NIGRAN" className="h-10 w-10 shrink-0 object-contain drop-shadow-lg" />
           <div className="leading-tight">
             <div className="text-xl font-bold tracking-widest text-white">NIGRAN</div>
             <div className="font-mono text-[10px] uppercase tracking-[0.28em] text-white/70">
@@ -92,7 +92,7 @@ const Login = () => {
         >
           {/* Mobile brand lockup */}
           <div className="mb-8 flex items-center gap-3 lg:hidden">
-            <img src="/logo.png" alt="NIGRAN" className="h-11 w-11 shrink-0 rounded-xl object-contain" />
+            <img src="/team_logo.png" alt="NIGRAN" className="h-11 w-11 shrink-0 object-contain" />
             <div className="leading-tight">
               <p className="text-base font-bold tracking-[0.22em] text-slate-900">NIGRAN</p>
               <p className="text-xs text-slate-500">Media Intelligence Monitoring</p>
