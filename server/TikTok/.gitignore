@@ -2,8 +2,8 @@
 node_modules/
 
 # # Environment files
-# .env
-# .env.*
+.env
+.env.*
 # !.env.example
 
 # Logs and runtime data
